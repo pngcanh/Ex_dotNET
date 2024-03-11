@@ -1,2 +1,2 @@
-# Ex_dotNET
-thuc hanh su dung git
+TASK2-DOTNET
+UI SICIX
